@@ -1,0 +1,20 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "My first project",
+  "homepage": "https://github.com/gift-ndoma/cse341#readme",
+  "bugs": {
+    "url": "https://github.com/gift-ndoma/cse341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gift-ndoma/cse341.git"
+  },
+  "license": "ISC",
+  "author": "Gift Ndoma",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
